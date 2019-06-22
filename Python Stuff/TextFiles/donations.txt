@@ -1,0 +1,580 @@
+Michael Klenk,Bristol,9
+Frank Daum,Farmington,14
+Todd Martin,Farmington,6
+Valerie Conrad,Bristol,20
+Susan Mursch,New Britain,6
+Christopher King,Avon,4
+Wayne Rasmussen,Farmington,8
+Bruce Williams,New Britain,19
+Christopher Zakowicz,Simsbury,6
+Marcia Hitt,Avon,4
+Albert Vaillancourt,New Britain,6
+Christopher Lu,New Britain,17
+Jerome Merriam,Farmington,6
+Jonathan Anderson,Avon,15
+Gary Slamon,Simsbury,10
+Janet Corallo,Bristol,9
+Richard Trautman,Avon,11
+John Pullela,Bristol,3
+Barry Tarbutton,Bristol,14
+Allison Diaz,Avon,5
+Bruce Wallace,Bristol,18
+David Buonocore,Farmington,13
+Daniel Ostrovski,New Britain,14
+Dudley Palmer,Simsbury,7
+Ned Sadlon,New Britain,18
+Kenneth Chendar,Avon,15
+Eric Mundy,Farmington,12
+Brian Clapp,Avon,14
+John Zajac,New Britain,14
+Robert Whitaker,Bristol,20
+Brian Hennebury,Bristol,14
+Henry Smoolca,Avon,4
+Bruce Neese,Bristol,5
+David Floryan,New Britain,14
+David Sieklucki,Bristol,13
+Bruce Gagnon,Bristol,11
+Charles Macri,Farmington,3
+David Barz,Avon,15
+Alyssa Lavoie,New Britain,4
+Graham Salazar,Farmington,10
+Martin Bolen,New Britain,13
+Julius Dumascke,Farmington,2
+N Tarbutton,Farmington,6
+Michael Russe,Bristol,14
+Michael Childs,Avon,18
+Brian Viola,Farmington,20
+Gary Huot,New Britain,13
+Todd Cote,Simsbury,3
+Robert Allen,Farmington,2
+Thomas Swenson,Farmington,15
+David Tompsett,New Britain,4
+Janine Atwood,Simsbury,9
+Roderick Dvoretsky,New Britain,9
+Curt Cesen,New Britain,12
+Allison Rewinski,Simsbury,18
+Cristina Buehler,Farmington,13
+Denise Dulz,Simsbury,17
+Anita LoPresto,Farmington,1
+Arthur Hayden,Bristol,10
+John Korick,New Britain,14
+Richard McGetrick,Bristol,4
+John Masse,New Britain,20
+Kathleen Potter,Simsbury,5
+Robert Zappile,Farmington,11
+Brian Nikolov,Simsbury,5
+James Dennen,Simsbury,10
+David Bidmead,New Britain,8
+Ruth Sperandio,Simsbury,19
+Michael Edbrooke,Avon,19
+Richard Foster,Bristol,11
+Bradford Maas,Simsbury,1
+John Brown,Avon,10
+Deborah Chi,Simsbury,17
+Brian Falvey,New Britain,5
+Richard Gama,Simsbury,17
+Gregory Macadam,Simsbury,15
+Nancy Goodwin,New Britain,11
+Alfredo Johnson,Simsbury,13
+Jason Mancarella,Bristol,15
+Lane Deforest,New Britain,19
+Curt Miller,Simsbury,9
+Paul Agans,Avon,9
+Ronald Couch,Simsbury,10
+Xavier Markowitz,Farmington,7
+Richard Morris,Simsbury,6
+Frederick Reynolds,New Britain,12
+Brian Imperiale,Simsbury,12
+Jason Kang,Simsbury,11
+Andrew Sharron,Bristol,9
+Brian Berardelli,Farmington,15
+Thomas Aber,Avon,12
+Dawn Samulenas,New Britain,8
+Dennis Sonido,Simsbury,20
+Gary Watras,Simsbury,8
+Stephen Mortimer,Bristol,14
+Raymond Sturgis,Bristol,16
+Glandine Keene,New Britain,20
+William Steinhagen,Avon,12
+Alison Doyle,New Britain,12
+Stuart Mock,Farmington,14
+Andrew Beliveau,Bristol,19
+Paul Loynes,New Britain,4
+James Reaves,Farmington,7
+Thomas Kruszewski,Farmington,9
+Yong Hoffnagle,Simsbury,14
+Glenn McAndrews,Simsbury,3
+Francis Murray,Farmington,18
+David Canny,New Britain,11
+George Schwager,New Britain,19
+Kimberly Fredrickson,Farmington,13
+John Smits,Simsbury,18
+Rickey Planco,Avon,19
+Jeffrey Barnhart,New Britain,5
+Ellen Merkel,Avon,2
+Brian Fiocchetta,Avon,8
+Michael Carroll,Farmington,10
+William Angel,Farmington,19
+Andrew Vargas,Avon,19
+Hugh Graham,Simsbury,4
+Mark Russell,Avon,20
+Anthony Montgomery,Simsbury,16
+Dale O'Neill,New Britain,4
+Alfredo Strzegowski,Avon,2
+John Krajcik,Farmington,6
+Christopher Davis,New Britain,10
+Jede Hall,Bristol,7
+Raymond Moffatt,Avon,7
+John Loveland,Avon,14
+Daniel Miller,New Britain,12
+Carroll Dionne,Simsbury,17
+Jennifer Moore,Simsbury,16
+Mitchell Levenstein,Avon,2
+George Filomena,New Britain,3
+Andrew Hazelwood,Bristol,2
+Gary Greis,Bristol,12
+Dwight Kulpa,Bristol,2
+Gary Luty,New Britain,10
+Daniel Moccio,Farmington,17
+Scott Nadeau,Farmington,5
+Gregory Karns,Avon,16
+Tammy Gilpin,Simsbury,4
+Joseph Vendette,Avon,13
+Brian Sterling,Simsbury,8
+Judith Theriault,Simsbury,2
+John Figueroa,Simsbury,3
+Michael Beaudin,Simsbury,4
+Lu Sullivan,Bristol,8
+Walter Sartori,Simsbury,5
+Richard McCorg,New Britain,20
+David Doyle,Simsbury,19
+Thomas Cobb,Farmington,13
+James Feldman,Bristol,2
+Jack Termini,Avon,18
+Celeste Leighton,Bristol,13
+Joseph Corrigan,New Britain,14
+Mark Dearing,Farmington,9
+Gregory Ma,Bristol,4
+Charles Rivera,New Britain,17
+Lawrence Krajcik,New Britain,3
+Gabriel Peterson,Bristol,9
+Philip Roundy,Avon,5
+John Schmitz,Simsbury,18
+Anthony Harrington,New Britain,6
+Foy Costanza,Avon,3
+Fanny Swayze,Simsbury,11
+Denise Garratt,Bristol,16
+Ellen Thorgaluen,Bristol,18
+John Manchester,Farmington,10
+Pedro Watkins,Avon,18
+Walter Bologa,Avon,14
+Jonathan Cohen,Avon,11
+Michael Best,Bristol,5
+Robert Wolf,Avon,3
+Mark Welsh,New Britain,7
+Thomas Papp,New Britain,15
+Mark Hardcastle,Simsbury,16
+Vincent Porter,Simsbury,2
+Jason Thoma,Avon,11
+Kingsbury Rechen,Farmington,12
+Maureen Opulski,Bristol,4
+Brian Bragoni,Farmington,20
+Paul Favolise,Bristol,8
+Christopher Kerpelman,New Britain,7
+Christopher Bacon,New Britain,2
+Duncan Topalis,Avon,12
+Richard Sikorski,New Britain,5
+Douglas Bero,Simsbury,9
+Keith Mervine,Bristol,11
+Jack Dutton,Bristol,20
+Steven Polanis,Simsbury,19
+Thomas Smithson,Avon,11
+William Wade,Farmington,3
+Brian White,Avon,8
+Linda Menakera,New Britain,20
+Royce Sullivan,New Britain,3
+Carroll Hennessey,Bristol,14
+Marc Brown,Farmington,10
+Randall Littleton,Avon,4
+Robert Matta,Simsbury,15
+Harvey Jackson,Farmington,16
+Thomas Spurlock,Simsbury,4
+Alyssa White,Simsbury,8
+Barbara Waddell,Farmington,12
+Sandra Wiernasz,Simsbury,17
+Deborah Gregorie,New Britain,10
+Gordon McMath,Farmington,2
+Daniel Jarboe,Avon,8
+Douglas Cavallari,Bristol,2
+Devlin Dang,Bristol,6
+Aaron Bolduc,Avon,12
+Curtis Catalano,Simsbury,14
+Dennis Mocciae,Farmington,1
+Janet Carr,Farmington,18
+Peter Pantalone,Simsbury,1
+Sotitios Raymond,Avon,1
+Francis Bogdan,New Britain,4
+Robert Drew,Farmington,18
+Arthur Guilmette,Bristol,15
+Glenn Bossi,Avon,13
+Brian Allen,Bristol,10
+Rex Toolan,Simsbury,4
+Donna Gingrave,Avon,18
+Christopher Thorsel,Avon,8
+Douglas Herzig,New Britain,15
+Elizabeth Palmer,Avon,6
+John Spear,Farmington,10
+David Stokes,Farmington,14
+Sharon Allen,Simsbury,12
+Christopher Lee,Avon,2
+Thomas Drake,Avon,1
+Lorin Gonzalez,Simsbury,8
+Randall Gillespie,Farmington,14
+Brian Murphy,Bristol,6
+Jeffrey Norlund,New Britain,2
+John Talbot,Farmington,17
+Jeffrey Weston,Simsbury,3
+James Newman,New Britain,2
+John Dunham,Farmington,15
+John Leaders,Avon,13
+Brent Mallory,Bristol,1
+Frank Livingstone,Bristol,11
+Louise Wyrostek,New Britain,7
+Michael Kennedy,Bristol,16
+Kevin Ruubel,Farmington,8
+Kevin Ramsay,New Britain,18
+Robert McPherson,Farmington,6
+Ilya Mormino,Bristol,4
+Biher Cavanaugh,Avon,12
+Jonathan Crowe,Farmington,17
+John Antonio,Bristol,2
+Sergey Sullivan,Bristol,9
+Steven Finch,New Britain,16
+Christopher Ngo,Avon,16
+Daniel Tedisky,Bristol,12
+Joseph Vorilhon,Avon,20
+Stephen Dorr,Farmington,8
+Stephen Geathers,Farmington,4
+Robert Han,Simsbury,12
+Thomas Reynolds,New Britain,8
+Brian Protheroe,Avon,11
+Frank Roller,Simsbury,11
+David Dimare,Farmington,19
+Gary Traczynski,New Britain,19
+Dennis Walsh,New Britain,10
+John Hackett,New Britain,12
+Louis Bordett,New Britain,13
+Richard Williams,Bristol,20
+William Duski,Bristol,15
+Laurel Burke,Simsbury,17
+Sharon Law,Farmington,15
+Brian Fray,New Britain,4
+Eric Fiasconaro,Bristol,11
+Robin Ray,New Britain,7
+David Laroche,Avon,4
+Patrick Eberly,Simsbury,1
+Barbara Hammonds,New Britain,9
+Daniel Frazier,New Britain,2
+William Mitchell,Avon,17
+George Arnold,Farmington,14
+Charles Pucak,New Britain,5
+William Marshall,Avon,9
+Peter Coyne,Avon,1
+Kevin Alleman,Farmington,14
+Robert Aretakis,Simsbury,17
+Daniel Felson,Avon,15
+David Lillibridge,Farmington,11
+Jeffrey Feeney,Avon,14
+Peter Frieswick,Avon,15
+Thomas Jackson,Avon,20
+Richard Feeheley,New Britain,18
+Anita North,Avon,5
+Elizabeth Henley,Farmington,2
+Paul Bane,Avon,4
+Mark Gizelis,Simsbury,6
+Michael Case,Simsbury,6
+Karen Eckler,Farmington,17
+Douglas Wasserman,New Britain,16
+Sergio Tortland,Bristol,8
+Paul Dehm,Bristol,13
+Janet Barillaro,Avon,12
+Robin Shotwell,New Britain,5
+Mark Jordan,Simsbury,2
+Eurgsoo Riedinger,Avon,5
+John Serkey,Farmington,20
+Neil Musby,Farmington,7
+Joyce Howland,New Britain,11
+William Sorensen,Farmington,20
+Becky Mackstutis,Farmington,5
+Michael Haase,Bristol,3
+Robert Combs,Simsbury,12
+Rebecca Bennett,Avon,12
+James McCrory,Bristol,1
+David Potito,Farmington,9
+Curtis Thomas,Bristol,10
+Sandra Comstock,Simsbury,7
+Jonathan Carew,Avon,10
+Armando Underwood,Simsbury,8
+Thomas Tartaglia,New Britain,2
+Albert Dropick,New Britain,19
+Derek Haley,Avon,19
+Devlin Simonds,Simsbury,11
+Roger Berberian,Avon,13
+Wesley Bradshaw,Bristol,15
+George Nazaryan,Simsbury,8
+Lynn Troutman,Bristol,12
+Jacques Sellitto,New Britain,19
+Bruce King,Farmington,5
+Mark Bertenthal,Farmington,18
+Alyssa Kloter,Avon,10
+Jan Cottrell,Simsbury,7
+Michael Hanshaw,Farmington,10
+Ruth Michel,Avon,9
+Frank Lowe,Simsbury,4
+Frank Farrell,Farmington,11
+Roberta Senott,Simsbury,2
+Irmgard Salina,Avon,18
+Randall Palmer,Simsbury,17
+David Pastizzo,Bristol,13
+Gabriel Turner,Avon,15
+William Jackson,Avon,17
+David O'Connell,Avon,11
+John Lyle,Farmington,17
+Robert McConnell,New Britain,18
+Daniel Hepple,Farmington,14
+Christopher Donwitz,Bristol,9
+Edgardt Moore,Avon,14
+Thomas Nelson,Farmington,16
+John Steffen,Avon,6
+David Caruso,Avon,9
+Peter Lobik,Bristol,3
+Craig Syhers,Bristol,12
+Joseph Perlmutter,Simsbury,19
+Paul Clark,Avon,20
+Mitchell Macheil,Farmington,5
+David Brown,Farmington,20
+Daniel Shepard,Farmington,12
+Christopher Wright,Bristol,15
+Christopher Harrington,New Britain,8
+John Swanson,New Britain,12
+John Tully,Bristol,6
+Richard Lavoie,New Britain,2
+Maurice Martin,Bristol,14
+Patrick Kern,Avon,18
+Roderick Price,New Britain,1
+Brent Payant,New Britain,14
+Douglas Khaykin,New Britain,6
+Thomas Carlyle,Farmington,15
+Peter Haaser,Bristol,5
+Stanley Parks,Farmington,5
+Richard Mesquita,Bristol,19
+Sandra Chase,Bristol,20
+Celeste Baker,Farmington,10
+Todd Russell,Bristol,13
+Jonathan Gallagher,Farmington,5
+Fanny Gearhart,Simsbury,5
+Virginia Lafreriere,Bristol,3
+Robert Richer,New Britain,18
+Kenton Coburn,Farmington,18
+Dwight Roberts,Simsbury,6
+Michael Manning,New Britain,7
+John Beck,Bristol,19
+Stefan King,Farmington,8
+Michael Tran,Avon,8
+Foy Dechichio,Farmington,16
+Mark Downes,Farmington,12
+Jeff Trotman,Bristol,5
+Arne Kernan,Farmington,19
+David Trembley,Avon,3
+Gregory Walsh,Avon,2
+Curtis Bozzi,New Britain,3
+John Thibodeau,Avon,2
+Frank Angell,Avon,11
+Maryanne Sayler,Farmington,16
+Kenneth Fecher,Farmington,7
+Thomas Roemer,Avon,20
+John Kahl,New Britain,7
+Donald Lazich,New Britain,4
+Anthony Eldridge,Farmington,15
+Ron Cody,Simsbury,11
+Barbara Truong,Avon,19
+Charles Colwell,Simsbury,13
+Kevin Keyes,Simsbury,13
+Marc Sawka,Simsbury,4
+Matthew Coulon,New Britain,6
+Dawn Jessen,New Britain,9
+William Sprunger,Farmington,18
+William Budlong,New Britain,4
+Richard Carew,New Britain,5
+Oleg Perez,Avon,12
+Jason Attarwala,Farmington,2
+Richard Clancy,Simsbury,20
+Walter Badalucco,Simsbury,18
+Shabbir Castricum,Avon,17
+Carla Bingham,Farmington,13
+Douglas Finken,New Britain,19
+Mark Ebo,New Britain,2
+Kevin Perks,Bristol,18
+Tom Fitzpatrick,Farmington,8
+Patricia Flagg,Farmington,18
+Andrew Skwara,Simsbury,6
+Albert Kane,New Britain,18
+Arne Futardo,Farmington,8
+Gregory Steur,Avon,14
+Joseph Hovery,Bristol,12
+Craig Dorsee,Avon,18
+Jackson Coburn,Avon,19
+Peter Morganti,Bristol,13
+Gary Kase,Farmington,10
+Christopher Tylki,Bristol,2
+Millicent Kennedy,Farmington,7
+David Donskoy,Farmington,5
+Randall Lavigne,Avon,2
+Christopher Peters,Simsbury,7
+James Howard,Bristol,16
+Paola Gull,Bristol,3
+Emilio Schuessler,Farmington,8
+Charles Hirning,Farmington,2
+Gary DeFrances,New Britain,6
+Shawn Brunner,Simsbury,16
+Donna Batson,Farmington,2
+Arthur Makoski,Simsbury,7
+Virginia Gorack,New Britain,7
+James Lavoie,New Britain,20
+Vance Matthews,Bristol,10
+John Nash,New Britain,5
+Michael King,Avon,4
+Erik Provinski,Farmington,4
+William Wierdsmce,New Britain,5
+Michael Craig,Bristol,6
+Kirk Goerin,New Britain,11
+Samuel Goroff,Farmington,15
+Susan Clark,Avon,10
+Carl Howard,Bristol,1
+Frederick Patel,Farmington,17
+Marcia Wiggin,Simsbury,16
+Srinath Phillips,Simsbury,4
+Kenneth Spangler,New Britain,14
+Melvin Doney,Bristol,15
+Brian Joy,Avon,9
+Nancy Gagliano,Bristol,5
+James Kutz,Farmington,7
+Elliott Greenberg,Farmington,15
+Michael Edwards,New Britain,19
+Frederick Susko,New Britain,15
+Barry Kaliszewski,New Britain,8
+David Jones,New Britain,5
+Steven Pfizenmaier,Simsbury,5
+Thomas Sun,Avon,12
+Cristina Carrier,Farmington,5
+John Casinghino,Simsbury,2
+Michael Vogt,Bristol,4
+Daniel Knapp,Farmington,15
+Alison Ma,Bristol,8
+James Charles,Avon,11
+Stephen Friedberg,Avon,9
+Carl Black,Simsbury,16
+Curtis Beaudoin,Avon,15
+Vladimir Sabatine,New Britain,16
+Garnett Albert,New Britain,17
+Christopher Diefendorf,New Britain,9
+Ronald Wickham,Simsbury,2
+Scott Foley,Farmington,9
+Sharon Nadeau,Avon,20
+Kevin Rogers,Bristol,8
+Craig McGonagle,Bristol,2
+John Gill,New Britain,19
+Christopher Stone,Simsbury,8
+Donald Medina,Farmington,13
+Tracy Crone,Bristol,2
+James McHenry,Simsbury,16
+Thomas Gaffey,Simsbury,10
+Mark Alzmann,Simsbury,20
+David Eagan,New Britain,19
+Joel Greydinger,Farmington,17
+Brian Murray,Simsbury,12
+Jose Colman,Avon,2
+Andrew Nicastro,Farmington,17
+Michael Lamm,Bristol,13
+Derek Cella,Avon,3
+Frank Phelps,Avon,2
+Benjamin Kelly,Bristol,4
+Arthur Brinegar,Farmington,5
+Richard Steele,Bristol,3
+James Kriss,Avon,15
+Gregory Smith,Simsbury,9
+Lon Hawkins,Avon,1
+V Kuzmin,Avon,11
+Harold Tynan,Simsbury,19
+Keith Shaw,New Britain,17
+Daniel Morrison,Bristol,16
+Albert Reilly,New Britain,17
+Peter Briggs,Bristol,16
+Eurgsoo Medico,Simsbury,15
+Jonathan Maidman,Simsbury,17
+Raul Moran,New Britain,15
+Matthew Burke,Simsbury,15
+Dennis Lavigueur,Bristol,6
+Jason Brogen,Avon,10
+Craig Ahern,Simsbury,1
+Bruce Guilmette,Simsbury,11
+Emilio Landers,New Britain,11
+Lawrence Rainville,Bristol,15
+William Feaster,Bristol,4
+Dale Piscitelli,Avon,10
+David Gomez,Simsbury,5
+Lee Bruce,Bristol,12
+Scott Christiana,Bristol,18
+Brian Moreira,Farmington,7
+Frank Doub,New Britain,6
+Joseph Sedor,Avon,1
+Gary Hawkins,Avon,8
+Charles Dinner,Avon,8
+Elliott Ronda,Farmington,7
+Shin Pane,Farmington,8
+Edgardt Dunlap,Farmington,6
+George Mikus,Bristol,3
+Barbara Plocharsky,Simsbury,30
+Christopher Evans,Simsbury,14
+Mark Thompson,Bristol,15
+Michele Palmieri,Bristol,1
+John Roy,Avon,2
+Michael Rahmy,Farmington,18
+David Glad,Bristol,10
+Yelloh Hinds,New Britain,5
+Robert Palmer,New Britain,19
+Anthony Kraske,New Britain,11
+Judith Nevins,Bristol,4
+Jeremiah Barr,New Britain,9
+James Clarke,Farmington,8
+Mary Kelly,Simsbury,14
+David Turchi,Simsbury,10
+Bradford Comia,Farmington,18
+Daniel Johnson,Bristol,6
+Jonathan Hubbs,Avon,20
+Daniel Hannah,New Britain,10
+Paul Cannon,Farmington,17
+James Breitenfeld,Simsbury,19
+Robert Howard,New Britain,4
+Richard Washer,Simsbury,18
+Daniel Gallagher,Farmington,6
+Aaron Stultz,Simsbury,20
+Kent McHugh,Farmington,9
+Leonard Dawick,Bristol,20
+Duncan Green,Avon,8
+Gary Reynolds,Farmington,3
+Michael Yan,Simsbury,12
+Frederick Boothby,Bristol,16
+Garnett Kaljulaid,New Britain,18
+Carla Donskaya,Simsbury,3
+Erik Faulkner,Farmington,5
+Matthew Erasmus,New Britain,19
+Paul Rutsky,Avon,3
+Benjamin Donn,Avon,6
+Christopher Albee,Simsbury,11
+Lynda Mitchell,New Britain,15
+Glenna Chapel,New Britain,19
+Jeri Bagnall,Simsbury,3
+Dudley Barnes,New Britain,12
+Philip Comstock,Bristol,13
+Lynell Dekker,Bristol,7
